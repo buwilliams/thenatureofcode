@@ -1,4 +1,4 @@
-Working through the examples in The Nature of Code
+Examples created while reading The Nature of Code
 ===============
 
 The Nature of Code by Daniel Shiffman
